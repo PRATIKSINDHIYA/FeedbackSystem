@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="mt-16 text-center text-gray-600">
       <div className="flex items-center justify-center gap-2">
-        <p>Built by Your Name for Internshala Assignment</p>
+        <p>Made with ❤️ by Pratik Sindhiya | Submitted for Fallon Studio Internship – April 2025</p>
         <a
           href="https://github.com/yourusername/feedback-collector"
           target="_blank"
