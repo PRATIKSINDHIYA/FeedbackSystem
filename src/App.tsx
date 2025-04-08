@@ -116,7 +116,7 @@ const App: React.FC = () => {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5 }}
       >
-        © {new Date().getFullYear()} Feedback System. All rights reserved.
+        Made with ❤️ by Pratik Sindhiya | Submitted for Fallon Studio Internship – April 2025
       </motion.footer>
     </div>
   );
